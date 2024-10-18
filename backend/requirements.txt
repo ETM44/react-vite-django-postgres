@@ -1,0 +1,4 @@
+Django>=5.1,<6.0
+psycopg2
+djangorestframework
+django-cors-headers
